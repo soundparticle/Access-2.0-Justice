@@ -6,7 +6,6 @@ import React, { PureComponent } from 'react';
 
 import './SignInForm.scss';
 
-
 export class SignInForm extends PureComponent {
 
 	state = {
